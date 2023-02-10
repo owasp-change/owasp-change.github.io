@@ -28,6 +28,7 @@ Yours truly,
 
 Simon Bennetts, [OWASP ZAP](https://www.zaproxy.org) founder and co-project leader  
 Ricardo Pereira, [OWASP ZAP](https://www.zaproxy.org) co-leader  
+Mark Curphey, OWASP founder and 2023 board member
 
 ---
 
