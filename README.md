@@ -26,9 +26,9 @@ We ask that you respond within 30 days, with a plan of action to address the fiv
 
 Yours truly,
 
-Simon Bennetts, [OWASP ZAP](https://www.zaproxy.org) founder and co-project leader  
-Ricardo Pereira, [OWASP ZAP](https://www.zaproxy.org) co-leader  
-Akshath Kothari, [OWASP ZAP](https://www.zaproxy.org) core team member  
+Simon Bennetts, [OWASP ZAP](https://www.zaproxy.org) founder and co-project leader<br>
+Ricardo Pereira, [OWASP ZAP](https://www.zaproxy.org) co-leader<br>
+Akshath Kothari, [OWASP ZAP](https://www.zaproxy.org) core team member<br>
 
 ---
 
