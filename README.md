@@ -1,8 +1,8 @@
 # OWASP needs to evolve
 
-To the OWASP Board of Directors and the Executive Director of the OWASP Foundation,
+To the [OWASP Board of Directors](https://owasp.org/www-board/) and the Executive Director of the OWASP Foundation,
 
-OWASP was first set up over two decades ago. The Internet, the way we build software, and the security industry, has changed so much that those days are hardly recognizable today.
+[OWASP](https://owasp.org/) was first set up over two decades ago. The Internet, the way we build software, and the security industry, has changed so much that those days are hardly recognizable today.
 
 As a group of OWASP flagship project leaders and lifelong contributors, we believe that OWASP hasn't kept pace and evolved to support the needs of important parts of our community today, especially our flagship projects. What worked in the past simply isn’t working now and OWASP needs to change.
 
@@ -12,7 +12,7 @@ Today, many projects operate independently, in some cases managing their own spo
 
 There are five key areas that we feel if not addressed immediately, will result in important projects, like ours, leaving OWASP in search of, or creating a community that better meets their needs. We don’t want that to happen.
 
-1. The Foundation should publish and maintain a community plan that should include its prioritized key project initiatives, along with a suitable funding plan to support them. The OSSF plan is a useful example to reference.
+1. The Foundation should publish and maintain a community plan that should include its prioritized key project initiatives, along with a suitable funding plan to support them. The [OSSF plan](https://openssf.org/oss-security-mobilization-plan/) is a useful example to reference.
 1. The Foundation’s governance structure should better reflect the needs of the entire security community, increasing access and participation for corporate practitioners, governments, major sponsors, and key technology providers. We believe this can be achieved with vendor independence and is particularly necessary to attract financial sponsorship and key industry partnerships.
 1. The Foundation’s funding should reflect the needs of our and other flagship projects to both sustain and improve them. We believe this would likely be in the region of five to ten million dollars per year for our projects alone. The money would be used to pay for dedicated developers, community managers, and other support staff. We would like to work with the foundation to develop project by project plans.
 1. The Foundation should provide improved infrastructure and services to the community so that projects can focus on the projects themselves.
