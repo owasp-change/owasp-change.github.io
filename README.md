@@ -32,6 +32,8 @@ Glenn ten Cate, [Security Knowledge Framework](https://www.securityknowledgefram
 Akshath Kothari, [OWASP ZAP](https://www.zaproxy.org) core team member<br>
 Mark Curphey, OWASP founder and 2023 board member<br>
 
+Published on YYYY/MM/DD (not officially published yet)
+
 ---
 
 Submit a PR to [README.md](https://github.com/owasp-change/owasp-change.github.io/blob/main/README.md) to add your name.
