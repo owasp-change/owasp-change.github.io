@@ -10,6 +10,8 @@ We have written and published this open letter, knowing that other parts of the 
 
 Today, many projects operate independently, in some cases managing their own sponsorships, finance, websites, domains, communication platforms, and developer tools. Projects still operate on a best-efforts model that relies on a few individuals working in their spare time. While admirable, these are projects that, as they have grown, are now relied on by thousands of companies and hundreds of thousands of security professionals and that have many millions of downloads each year. We don’t want to become commercial open-core businesses, but do want to be able to create, and sustain commercial quality open-source projects. 
 
+Without active world class projects, OWASP doesn’t have a unique selling point and projects need constant guidance, mentoring, and investment for them to grow and keep the brand where it should be: First and foremost for all things application security.
+
 There are five key areas that we feel if not addressed immediately, will result in important projects, like ours, leaving OWASP in search of, or creating a community that better meets their needs. We don’t want that to happen.
 
 1. The Foundation should publish and maintain a community plan that should include its prioritized key project initiatives, along with a suitable funding plan to support them. The [OSSF plan](https://openssf.org/oss-security-mobilization-plan/) is a useful example to reference.
@@ -31,6 +33,7 @@ Ricardo Pereira, [OWASP ZAP](https://www.zaproxy.org) co-leader<br>
 Glenn ten Cate, [Security Knowledge Framework](https://www.securityknowledgeframework.org) Founder and co-project leader & OWASP Board Member<br>
 Akshath Kothari, [OWASP ZAP](https://www.zaproxy.org) core team member<br>
 Mark Curphey, OWASP founder and 2023 board member<br>
+Daniel Cuthbert, [OWASP ASVS](https://github.com/owasp/asvs)<br> 
 Sebastien Deleersnyder, [OWASP SAMM](https://www.owaspsamm.org) co-project leader<br>
 Bart De Win, [OWASP SAMM](https://www.owaspsamm.org) co-project leader<br>
 
