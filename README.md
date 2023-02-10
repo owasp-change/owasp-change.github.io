@@ -37,6 +37,7 @@ Daniel Cuthbert, [OWASP ASVS](https://github.com/owasp/asvs)<br>
 Sebastien Deleersnyder, [OWASP SAMM](https://www.owaspsamm.org) co-project leader<br>
 Bart De Win, [OWASP SAMM](https://www.owaspsamm.org) co-project leader<br>
 Maxim Baele, [OWASP SAMM](https://www.owaspsamm.org) core team member<br>
+
 Published on YYYY/MM/DD (not officially published yet)
 
 ---
