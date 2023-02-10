@@ -28,17 +28,17 @@ We ask that you respond within 30 days, with a plan of action to address the fiv
 
 Yours truly,
 
-Simon Bennetts, [OWASP ZAP](https://www.zaproxy.org) founder and co-project leader<br>
-Ricardo Pereira, [OWASP ZAP](https://www.zaproxy.org) co-leader<br>
-Glenn ten Cate, [Security Knowledge Framework](https://www.securityknowledgeframework.org) Founder and co-project leader & OWASP Board Member<br>
+Simon Bennetts, [OWASP ZAP](https://www.zaproxy.org) founder and co-project leader, [OWASP VWAD](https://owasp.org/vwad) co-project leader<br>
+Ricardo Pereira, [OWASP ZAP](https://www.zaproxy.org) co-project leader<br>
+Glenn ten Cate, [Security Knowledge Framework](https://www.securityknowledgeframework.org) founder and co-project leader & OWASP Board Member<br>
 Akshath Kothari, [OWASP ZAP](https://www.zaproxy.org) core team member<br>
 Mark Curphey, OWASP founder and 2023 board member<br>
 Daniel Cuthbert, [OWASP ASVS](https://github.com/owasp/asvs)<br> 
 Sebastien Deleersnyder, [OWASP SAMM](https://www.owaspsamm.org) co-project leader<br>
 Bart De Win, [OWASP SAMM](https://www.owaspsamm.org) co-project leader<br>
 Maxim Baele, [OWASP SAMM](https://www.owaspsamm.org) core team member<br>
-Rick Mitchell, [OWASP ZAP](https://www.zaproxy.org) co-leader, [OWASP Web Security Testing Guide](https://owasp.org/wstg) co-leader, [OWASP VWAD](https://owasp.org/vwad) co-leader<br>
-Steve Springett, [OWASP CycloneDX](https://www.cyclonedx.org) and [OWASP Dependency-Track](https://dependencytrack.org) founder and co-leader<br>
+Rick Mitchell, [OWASP ZAP](https://www.zaproxy.org) co-project leader, [OWASP Web Security Testing Guide](https://owasp.org/wstg) co-project leader, [OWASP VWAD](https://owasp.org/vwad) co-project leader<br>
+Steve Springett, [OWASP CycloneDX](https://www.cyclonedx.org) and [OWASP Dependency-Track](https://dependencytrack.org) founder and co-project leader<br>
 
 Published on YYYY/MM/DD (not officially published yet)
 
