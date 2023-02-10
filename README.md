@@ -38,6 +38,7 @@ Sebastien Deleersnyder, [OWASP SAMM](https://www.owaspsamm.org) co-project leade
 Bart De Win, [OWASP SAMM](https://www.owaspsamm.org) co-project leader<br>
 Maxim Baele, [OWASP SAMM](https://www.owaspsamm.org) core team member<br>
 Rick Mitchell, [OWASP ZAP](https://www.zaproxy.org) co-leader, [OWASP Web Security Testing Guide](https://owasp.org/wstg) co-leader, [OWASP VWAD](https://owasp.org/vwad) co-leader<br>
+Steve Springett, [OWASP CycloneDX](https://www.cyclonedx.org) and [OWASP Dependency-Track](https://dependencytrack.org) founder and co-leader<br>
 
 Published on YYYY/MM/DD (not officially published yet)
 
