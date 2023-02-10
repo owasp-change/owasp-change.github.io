@@ -28,6 +28,7 @@ Yours truly,
 
 Simon Bennetts, [OWASP ZAP](https://www.zaproxy.org) founder and co-project leader<br>
 Ricardo Pereira, [OWASP ZAP](https://www.zaproxy.org) co-leader<br>
+Glenn ten Cate, [Security Knowledge Framework](https://www.securityknowledgeframework.org) Founder and co-project leader & OWASP Board Member<br>
 Akshath Kothari, [OWASP ZAP](https://www.zaproxy.org) core team member<br>
 Mark Curphey, OWASP founder and 2023 board member<br>
 
