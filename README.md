@@ -31,6 +31,8 @@ Ricardo Pereira, [OWASP ZAP](https://www.zaproxy.org) co-leader<br>
 Glenn ten Cate, [Security Knowledge Framework](https://www.securityknowledgeframework.org) Founder and co-project leader & OWASP Board Member<br>
 Akshath Kothari, [OWASP ZAP](https://www.zaproxy.org) core team member<br>
 Mark Curphey, OWASP founder and 2023 board member<br>
+Sebastien Deleersnyder, [OWASP SAMM](https://www.owaspsamm.org) co-project leader<br>
+Bart De Win, [OWASP SAMM](https://www.owaspsamm.org) co-project leader<br>
 
 Published on YYYY/MM/DD (not officially published yet)
 
