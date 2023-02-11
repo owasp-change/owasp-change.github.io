@@ -42,6 +42,7 @@ Steve Springett, [OWASP CycloneDX](https://www.cyclonedx.org) and [OWASP Depende
 Björn Kimminich, [OWASP Juice Shop](https://owasp-juice.shop) founder and project leader<br>
 Niklas Düster, [OWASP Dependency-Track](https://dependencytrack.org) co-project leader<br>
 Jeroen Willemsen, [OWASP WrongSecrets](https://github.com/OWASP/wrongsecrets) project leader<br>
+Jeremy Long, [OWASP dependency-check](https://github.com/jeremylong/DependencyCheck) founder and project lead and [OWASP Java Encoder](https://github.com/OWASP/owasp-java-encoder/) contributor<br>
 
 ---
 
