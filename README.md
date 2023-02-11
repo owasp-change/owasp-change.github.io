@@ -34,7 +34,7 @@ Glenn ten Cate, [Security Knowledge Framework](https://www.securityknowledgefram
 Akshath Kothari, [OWASP ZAP](https://www.zaproxy.org) core team member<br>
 Mark Curphey, OWASP founder and 2023 board member<br>
 Daniel Cuthbert, [OWASP ASVS](https://github.com/owasp/asvs)<br> 
-Sebastien Deleersnyder, [OWASP SAMM](https://www.owaspsamm.org) co-project leader<br>
+Sebastien Deleersnyder, [OWASP SAMM](https://www.owaspsamm.org) co-project leader and [OWASP Threat Modeling Playbook (OTMP)](https://owasp.org/www-project-threat-modeling-playbook/) founder and project leader<br>
 Bart De Win, [OWASP SAMM](https://www.owaspsamm.org) co-project leader<br>
 Maxim Baele, [OWASP SAMM](https://www.owaspsamm.org) core team member<br>
 Rick Mitchell, [OWASP ZAP](https://www.zaproxy.org) co-project leader, [OWASP Web Security Testing Guide](https://owasp.org/wstg) co-project leader, [OWASP VWAD](https://owasp.org/vwad) co-project leader<br>
