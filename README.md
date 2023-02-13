@@ -49,7 +49,8 @@ Erwin Geirnaert, Creator of the first OWASP WebGoat Solutions Guide, first OWASP
 Robin Wood, OWASP contributor and supporter<br>
 Rob Grant, OWASP contributor<br>
 Arkaprabha Chakraborty, OWASP contributor and [OWASP ZAP](https://www.zaproxy.org) extended team member<br>
-Curtis Koenig, Founding member OWASP Louisville, Former Chapter Leader OWASP Louisville, OWASP Member
+Curtis Koenig, Founding member OWASP Louisville, Former Chapter Leader OWASP Louisville, OWASP Member<br>
+Cláudio André, [OWASP MASTG](https://mas.owasp.org/MASTG/) Top Contributer<br>
 
 <!--
 Please:
