@@ -43,6 +43,7 @@ Björn Kimminich, [OWASP Juice Shop](https://owasp-juice.shop) founder and proje
 Niklas Düster, [OWASP Dependency-Track](https://dependencytrack.org) co-project leader<br>
 Jeroen Willemsen, [OWASP WrongSecrets](https://github.com/OWASP/wrongsecrets) project leader<br>
 Jeremy Long, [OWASP dependency-check](https://github.com/jeremylong/DependencyCheck) founder and project lead and [OWASP Java Encoder](https://github.com/OWASP/owasp-java-encoder/) contributor<br>
+Cole Cornford, [OWASP Code Review Guide](https://owasp.org/www-project-code-review-guide/) project lead and [OWASP XSS Prevention CheatSheet](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html) author<br>
 
 ---
 
