@@ -69,6 +69,7 @@ Daniel Wood, OWASP Lifetime Member<br>
 Bharath, OWASP (Bangalore Chapter) Member and Contributor<br>
 John Viega, original OWASP advisory board member, OWASP Lifetime Member<br>
 Carol Valencia, Security cloud-native and open-source enthusiast<br>
+Jimmy Mesta, [OWASP Kubernetes Top Ten](https://owasp.org/www-project-kubernetes-top-ten/) Project Leader and Cheatsheet Contributor<br>
 
 <!--
 Please:
