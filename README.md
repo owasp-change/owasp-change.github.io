@@ -47,6 +47,14 @@ Cole Cornford, [OWASP Code Review Guide](https://owasp.org/www-project-code-revi
 Ben Gittins, OWASP Member and Contributor<br>
 Robin Wood, OWASP contributor and supporter<br>
 
+<!--
+Please:
+* Add your name at the end of the list.
+* Only link to OWASP projects or chapters
+* Do not include any company details
+Many thanks
+-->
+
 ---
 
 Published on 2023/02/13
