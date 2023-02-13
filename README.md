@@ -70,6 +70,7 @@ Bharath, OWASP (Bangalore Chapter) Member and Contributor<br>
 John Viega, original OWASP advisory board member, OWASP Lifetime Member<br>
 Carol Valencia, Security cloud-native and open-source enthusiast<br>
 Jimmy Mesta, [OWASP Kubernetes Top Ten](https://owasp.org/www-project-kubernetes-top-ten/) Project Leader and Cheatsheet Contributor<br>
+Lewis Ardern, [OWASP Bay Area Chapter Leader (2019-2022)](https://owasp.org/www-chapter-bay-area/), and created the [What is OWASP?](https://www.youtube.com/watch?v=FqHfJGYNElg) Video<br>
 
 <!--
 Please:
