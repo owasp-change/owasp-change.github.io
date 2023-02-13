@@ -67,8 +67,8 @@ Paul McCann, [OWASP Security Shepherd](https://github.com/OWASP/SecurityShepherd
 Karan Preet Singh Sasan, [Owasp VulnerableApp](https://github.com/SasanLabs/VulnerableApp) project leader and [OWASP ZAP](https://www.zaproxy.org) extended team member<br>
 Daniel Wood, OWASP Lifetime Member<br>
 Bharath, OWASP (Bangalore Chapter) Member and Contributor<br>
-John Viega, original OWASP advisory board member, OWASP Lifetime Member</br>
-Carol Valencia, Security cloud-native and open-source enthusiast</br>
+John Viega, original OWASP advisory board member, OWASP Lifetime Member<br>
+Carol Valencia, Security cloud-native and open-source enthusiast<br>
 
 <!--
 Please:
