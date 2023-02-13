@@ -55,6 +55,7 @@ István Albert-Tóth, [OWASP CSRFGuard](https://github.com/OWASP/www-project-csr
 Katie Paxton-Fear, educational web security YouTuber<br>
 Jakub Maćkowski, OWASP contributor and [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/) co-project leader<br>
 Somdev Sangwan, Open Source Security Tools Developer<br>
+Edoardo Ottavianelli, Open Source Security Tools Developer<br>
 
 <!--
 Please:
