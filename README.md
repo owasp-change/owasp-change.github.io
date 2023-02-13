@@ -53,6 +53,7 @@ Curtis Koenig, Founding member OWASP Louisville, Former Chapter Leader OWASP Lou
 Cláudio André, [OWASP MASTG](https://mas.owasp.org/MASTG/) Top Contributer<br>
 István Albert-Tóth, [OWASP CSRFGuard](https://github.com/OWASP/www-project-csrfguard) project co-lead<br>
 Katie Paxton-Fear, educational web security YouTuber<br>
+Jakub Maćkowski, OWASP contributor and [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/) co-project leader<br>
 
 <!--
 Please:
