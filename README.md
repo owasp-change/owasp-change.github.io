@@ -58,7 +58,10 @@ Somdev Sangwan, Open Source Security Tools Developer<br>
 Edoardo Ottavianelli, Open Source Security Tools Developer<br>
 Aram Hovsepyan, [OWASP SAMM](https://www.owaspsamm.org) core team member<br>
 Brian Glas, [OWASP Top 10](https://owasp.org/www-project-top-ten/) Co-Lead, [OWASP SAMM](https://www.owaspsamm.org) Core team member, OWASP SAMM Benchmark Co-Lead<br>
-Dinis Cruz, Past OWASP Board member, organiser of multiple OWASP Conferences and Summits, lead multiple OWASP projects and chapters
+Jeff Williams, OWASP Chair from 2001-2011, Creator of OWASP Top Ten, WebGoat, ESAPI, ASVS, XSS Prevention Cheatsheet, OWASP Legal, Chapters Program, OWASP Foundation, the OWASP Wiki, and more<br>
+Dimitar Raichev, [OWASP SAMM](https://www.owaspsamm.org) contributor & tool developer<br>
+Dinis Cruz, Past OWASP Board member, organiser of multiple OWASP Conferences and Summits, lead multiple OWASP projects and chapters<br>
+
 <!--
 Please:
 * Add your name at the end of the list.
