@@ -51,6 +51,7 @@ Rob Grant, OWASP contributor<br>
 Arkaprabha Chakraborty, OWASP contributor and [OWASP ZAP](https://www.zaproxy.org) extended team member<br>
 Curtis Koenig, Founding member OWASP Louisville, Former Chapter Leader OWASP Louisville, OWASP Member<br>
 Cláudio André, [OWASP MASTG](https://mas.owasp.org/MASTG/) Top Contributer<br>
+István Albert-Tóth, [OWASP CSRFGuard](https://github.com/OWASP/www-project-csrfguard) project co-lead<br>
 
 <!--
 Please:
