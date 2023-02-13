@@ -62,6 +62,7 @@ Jeff Williams, OWASP Chair from 2001-2011, Creator of OWASP Top Ten, WebGoat, ES
 Dimitar Raichev, [OWASP SAMM](https://www.owaspsamm.org) contributor & tool developer<br>
 Dinis Cruz, Past OWASP Board member, organiser of multiple OWASP Conferences and Summits, lead multiple OWASP projects and chapters<br>
 Sachin Kumar Dhaka, OWASP Jaipur Member and Budding Security Researcher<br> 
+Jessy Ayala, OWASP Member and Contributor
 
 <!--
 Please:
