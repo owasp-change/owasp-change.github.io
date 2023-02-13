@@ -45,6 +45,7 @@ Jeroen Willemsen, [OWASP WrongSecrets](https://github.com/OWASP/wrongsecrets) pr
 Jeremy Long, [OWASP dependency-check](https://github.com/jeremylong/DependencyCheck) founder and project lead and [OWASP Java Encoder](https://github.com/OWASP/owasp-java-encoder/) contributor<br>
 Cole Cornford, [OWASP Code Review Guide](https://owasp.org/www-project-code-review-guide/) project lead and [OWASP XSS Prevention CheatSheet](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html) author<br>
 Ben Gittins, OWASP Member and Contributor<br>
+Erwin Geirnaert, Creator of the first OWASP WebGoat Solutions Guide, first OWASP Top 10 for Java and part of the OWASP Community since 2000<br>
 Robin Wood, OWASP contributor and supporter<br>
 
 ---
