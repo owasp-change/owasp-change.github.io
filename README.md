@@ -43,6 +43,7 @@ Björn Kimminich, [OWASP Juice Shop](https://owasp-juice.shop) founder and proje
 Niklas Düster, [OWASP Dependency-Track](https://dependencytrack.org) co-project leader<br>
 Jeroen Willemsen, [OWASP WrongSecrets](https://github.com/OWASP/wrongsecrets) project leader<br>
 Jeremy Long, [OWASP dependency-check](https://github.com/jeremylong/DependencyCheck) founder and project lead and [OWASP Java Encoder](https://github.com/OWASP/owasp-java-encoder/) contributor<br>
+Katie Paxton-Fear, [InsiderPhD](https://www.youtube.com/channel/UCPiN9NPjIer8Do9gUFxKv7A) (educational web security YouTuber)<br>
 
 ---
 
