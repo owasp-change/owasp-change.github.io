@@ -65,6 +65,7 @@ Sachin Kumar Dhaka, OWASP Jaipur Member and Budding Security Researcher<br>
 Jessy Ayala, OWASP Member and Contributor<br>
 Paul McCann, [OWASP Security Shepherd](https://github.com/OWASP/SecurityShepherd) maintainer and contributor<br>
 Karan Preet Singh Sasan, [Owasp VulnerableApp](https://github.com/SasanLabs/VulnerableApp) project leader and [OWASP ZAP](https://www.zaproxy.org) extended team member<br>
+
 <!--
 Please:
 * Add your name at the end of the list.
