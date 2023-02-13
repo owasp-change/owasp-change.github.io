@@ -52,6 +52,7 @@ Arkaprabha Chakraborty, OWASP contributor and [OWASP ZAP](https://www.zaproxy.or
 Curtis Koenig, Founding member OWASP Louisville, Former Chapter Leader OWASP Louisville, OWASP Member<br>
 Cláudio André, [OWASP MASTG](https://mas.owasp.org/MASTG/) Top Contributer<br>
 István Albert-Tóth, [OWASP CSRFGuard](https://github.com/OWASP/www-project-csrfguard) project co-lead<br>
+Katie Paxton-Fear, educational web security YouTuber<br>
 
 <!--
 Please:
