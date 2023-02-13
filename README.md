@@ -56,6 +56,7 @@ Katie Paxton-Fear, educational web security YouTuber<br>
 Jakub Maćkowski, OWASP contributor and [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/) co-project leader<br>
 Somdev Sangwan, Open Source Security Tools Developer<br>
 Edoardo Ottavianelli, Open Source Security Tools Developer<br>
+Aram Hovsepyan, [OWASP SAMM](https://www.owaspsamm.org) core team member<br>
 
 <!--
 Please:
