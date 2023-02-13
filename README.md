@@ -47,6 +47,7 @@ Cole Cornford, [OWASP Code Review Guide](https://owasp.org/www-project-code-revi
 Ben Gittins, OWASP Member and Contributor<br>
 Erwin Geirnaert, Creator of the first OWASP WebGoat Solutions Guide, first OWASP Top 10 for Java and part of the OWASP Community since 2000<br>
 Robin Wood, OWASP contributor and supporter<br>
+Rob Grant, OWASP contributor<br>
 
 <!--
 Please:
