@@ -57,6 +57,7 @@ Jakub Maćkowski, OWASP contributor and [OWASP Cheat Sheet Series](https://cheat
 Somdev Sangwan, Open Source Security Tools Developer<br>
 Edoardo Ottavianelli, Open Source Security Tools Developer<br>
 Aram Hovsepyan, [OWASP SAMM](https://www.owaspsamm.org) core team member<br>
+Brian Glas, [OWASP Top 10](https://owasp.org/www-project-top-ten/) Co-Lead, [OWASP SAMM](https://www.owaspsamm.org) Core team member, OWASP SAMM Benchmark Co-Lead<br>
 
 <!--
 Please:
