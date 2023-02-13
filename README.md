@@ -46,7 +46,7 @@ Jeremy Long, [OWASP dependency-check](https://github.com/jeremylong/DependencyCh
 
 ---
 
-Published on 2023/02/13 (not officially published yet)
+Published on 2023/02/13
 
 ---
 
