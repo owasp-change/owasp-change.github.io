@@ -57,6 +57,7 @@ Jakub Maćkowski, OWASP contributor and [OWASP Cheat Sheet Series](https://cheat
 Somdev Sangwan, Open Source Security Tools Developer<br>
 Edoardo Ottavianelli, Open Source Security Tools Developer<br>
 Aram Hovsepyan, [OWASP SAMM](https://www.owaspsamm.org) core team member<br>
+Jeff Williams, OWASP Chair from 2001-2011, Creator of OWASP Top Ten, WebGoat, ESAPI, ASVS, XSS Prevention Cheatsheet, OWASP Legal, Chapters Program, OWASP Foundation, the OWASP Wiki, and more<br>
 
 <!--
 Please:
