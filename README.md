@@ -48,6 +48,14 @@ Ben Gittins, OWASP Member and Contributor<br>
 Erwin Geirnaert, Creator of the first OWASP WebGoat Solutions Guide, first OWASP Top 10 for Java and part of the OWASP Community since 2000<br>
 Robin Wood, OWASP contributor and supporter<br>
 
+<!--
+Please:
+* Add your name at the end of the list.
+* Only link to OWASP projects or chapters
+* Do not include any company details
+Many thanks
+-->
+
 ---
 
 Published on 2023/02/13
