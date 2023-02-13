@@ -43,7 +43,24 @@ Björn Kimminich, [OWASP Juice Shop](https://owasp-juice.shop) founder and proje
 Niklas Düster, [OWASP Dependency-Track](https://dependencytrack.org) co-project leader<br>
 Jeroen Willemsen, [OWASP WrongSecrets](https://github.com/OWASP/wrongsecrets) project leader<br>
 Jeremy Long, [OWASP dependency-check](https://github.com/jeremylong/DependencyCheck) founder and project lead and [OWASP Java Encoder](https://github.com/OWASP/owasp-java-encoder/) contributor<br>
-Katie Paxton-Fear, [InsiderPhD](https://www.youtube.com/channel/UCPiN9NPjIer8Do9gUFxKv7A) (educational web security YouTuber)<br>
+Cole Cornford, [OWASP Code Review Guide](https://owasp.org/www-project-code-review-guide/) project lead and [OWASP XSS Prevention CheatSheet](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html) author<br>
+Ben Gittins, OWASP Member and Contributor<br>
+Erwin Geirnaert, Creator of the first OWASP WebGoat Solutions Guide, first OWASP Top 10 for Java and part of the OWASP Community since 2000<br>
+Robin Wood, OWASP contributor and supporter<br>
+Rob Grant, OWASP contributor<br>
+Arkaprabha Chakraborty, OWASP contributor and [OWASP ZAP](https://www.zaproxy.org) extended team member<br>
+Curtis Koenig, Founding member OWASP Louisville, Former Chapter Leader OWASP Louisville, OWASP Member<br>
+Cláudio André, [OWASP MASTG](https://mas.owasp.org/MASTG/) Top Contributer<br>
+István Albert-Tóth, [OWASP CSRFGuard](https://github.com/OWASP/www-project-csrfguard) project co-lead<br>
+Katie Paxton-Fear, educational web security YouTuber<br>
+
+<!--
+Please:
+* Add your name at the end of the list.
+* Only link to OWASP projects or chapters
+* Do not include any company details
+Many thanks
+-->
 
 ---
 
