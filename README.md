@@ -86,6 +86,7 @@ Abraham Aranguren, [OWASP OWTF Project](https://owasp.org/www-project-owtf/) cre
 Viyat Bhalodia, [OWASP OWTF Project](https://owasp.org/www-project-owtf/) project leader<br>
 Dave Ferguson, Project contributor and former chapter leader<br> 
 Josh Larsen, OWASP Lifetime Member<br>
+Sergey Pronin, Principal Security Architect, OWASP Lifetime Member
 
 <!--
 Please:
