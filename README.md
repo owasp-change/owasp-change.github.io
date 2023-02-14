@@ -78,7 +78,8 @@ Jeroen Beckers, [OWASP Mobile Application Security](http://mas.owasp.org), Co-Au
 Shubham Palriwala, [OWASP Juice Shop](https://owasp-juice.shop) Core Team member<br>
 Pinaki Mondal, Open Source Security Tools Developer<br>
 Zsolt Imre, CTO at private company<br>
-Deepayan Chanda, Principal Cybersecurity Architect
+Deepayan Chanda, Principal Cybersecurity Architect<br>
+
 <!--
 Please:
 * Add your name at the end of the list.
