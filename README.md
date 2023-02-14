@@ -81,6 +81,7 @@ Zsolt Imre, CTO at private company<br>
 Eoin Keary, Former OWASP Global Board Vice Chair (2010-2015), Former Testing and Code Review Guide lead<br>
 Deepayan Chanda, Principal Cybersecurity Architect<br>
 Martín Marsicano, OWASP Lifetime Member, Former Chapter Leader OWASP Uruguay and several projects contributor<br>
+Paul Schwarzenberger, [OWASP Domain Protect](https://owasp.org/www-project-domain-protect) creator and project leader<br>
 
 <!--
 Please:
