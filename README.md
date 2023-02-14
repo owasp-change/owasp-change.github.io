@@ -84,6 +84,7 @@ Martín Marsicano, OWASP Lifetime Member, Former Chapter Leader OWASP Uruguay an
 Paul Schwarzenberger, [OWASP Domain Protect](https://owasp.org/www-project-domain-protect) creator and project leader<br>
 Abraham Aranguren, [OWASP OWTF Project](https://owasp.org/www-project-owtf/) creator and project leader<br>
 Viyat Bhalodia, [OWASP OWTF Project](https://owasp.org/www-project-owtf/) project leader<br>
+Dave Ferguson, Project contributor and former chapter leader<br> 
 
 <!--
 Please:
