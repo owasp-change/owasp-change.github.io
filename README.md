@@ -76,6 +76,7 @@ Sven Schleier, [OWASP Mobile Application Security](http://mas.owasp.org), Co-Pro
 Carlos Holguera, [OWASP Mobile Application Security](http://mas.owasp.org), Co-Project Leader of OWASP MASVS and MASTG<br>
 Jeroen Beckers, [OWASP Mobile Application Security](http://mas.owasp.org), Co-Author of OWASP MASVS and MASTG<br>
 Shubham Palriwala, [OWASP Juice Shop](https://owasp-juice.shop) Core Team member<br>
+Eoin Jeary, Former OWASP Global Board Vice Chair (2010-2015), Former Testing and Code Review Guide lead<br>
 
 <!--
 Please:
