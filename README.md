@@ -87,6 +87,7 @@ Viyat Bhalodia, [OWASP OWTF Project](https://owasp.org/www-project-owtf/) projec
 Dave Ferguson, Project contributor and former chapter leader<br> 
 Josh Larsen, OWASP Lifetime Member<br>
 Sergey Pronin, Principal Security Architect, OWASP Lifetime Member<br>
+James, BugBounter, Pentester and OWASP passionate<br>
 
 <!--
 Please:
@@ -95,7 +96,7 @@ Please:
 * Do not include any company details
 Many thanks
 -->
-James, BugBounter, Pentester and OWASP passionate
+
 ---
 
 Published on 2023/02/13
