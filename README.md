@@ -82,6 +82,8 @@ Eoin Keary, Former OWASP Global Board Vice Chair (2010-2015), Former Testing and
 Deepayan Chanda, Principal Cybersecurity Architect<br>
 Martín Marsicano, OWASP Lifetime Member, Former Chapter Leader OWASP Uruguay and several projects contributor<br>
 Paul Schwarzenberger, [OWASP Domain Protect](https://owasp.org/www-project-domain-protect) creator and project leader<br>
+Abraham Aranguren, [OWASP OWTF Project](https://owasp.org/www-project-owtf/) creator and project leader<br>
+Viyat Bhalodia, [OWASP OWTF Project](https://owasp.org/www-project-owtf/) project leader<br>
 
 <!--
 Please:
