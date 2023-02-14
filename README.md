@@ -77,6 +77,7 @@ Carlos Holguera, [OWASP Mobile Application Security](http://mas.owasp.org), Co-P
 Jeroen Beckers, [OWASP Mobile Application Security](http://mas.owasp.org), Co-Author of OWASP MASVS and MASTG<br>
 Shubham Palriwala, [OWASP Juice Shop](https://owasp-juice.shop) Core Team member<br>
 Pinaki Mondal, Open Source Security Tools Developer<br>
+Zsolt Imre, CTO at private company<br>
 
 <!--
 Please:
