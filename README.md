@@ -95,7 +95,7 @@ Please:
 * Do not include any company details
 Many thanks
 -->
-
+James, BugBounter, Pentester and OWASP passionate
 ---
 
 Published on 2023/02/13
