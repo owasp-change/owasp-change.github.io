@@ -73,6 +73,7 @@ Jimmy Mesta, [OWASP Kubernetes Top Ten](https://owasp.org/www-project-kubernetes
 Lewis Ardern, [OWASP Bay Area Chapter Leader (2019-2022)](https://owasp.org/www-chapter-bay-area/), and created the [What is OWASP?](https://www.youtube.com/watch?v=FqHfJGYNElg) Video<br>
 Alvin Smith, [OWASP Juice Shop](https://owasp-juice.shop) Contributor<br>
 Sven Schleier, [OWASP Mobile Application Security](http://mas.owasp.org), Co-Project Leader of OWASP MASVS and MASTG<br>
+Carlos Holguera, [OWASP Mobile Application Security](http://mas.owasp.org), Co-Project Leader of OWASP MASVS and MASTG<br>
 
 <!--
 Please:
