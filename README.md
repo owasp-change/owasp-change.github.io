@@ -92,6 +92,7 @@ Kevin W. Wall, [OWASP ESAPI](https://owasp.org/www-project-enterprise-security-a
 Cesar Kohl, [OWASP ASVS](https://github.com/owasp/asvs) and [OWASP Cheat Sheets Series](https://cheatsheetseries.owasp.org/) contributor<br>
 Simon Whittaker, OWASP Lifetime Member<br>
 Frank Catucci, CTO and Head of Security Research at Invicti, OWASP Member and former OWASP Chapter Leader<br>
+
 <!--
 Please:
 * Add your name at the end of the list.
