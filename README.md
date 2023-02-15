@@ -90,6 +90,7 @@ Sergey Pronin, Principal Security Architect, OWASP Lifetime Member<br>
 James, BugBounter, Pentester and OWASP passionate<br>
 Kevin W. Wall, [OWASP ESAPI](https://owasp.org/www-project-enterprise-security-api/) project co-lead, OWASP Lifetime Member, and [OWASP ZAP](https://www.zaproxy.org/) and [OWASP Cheat Sheets Series](https://cheatsheetseries.owasp.org/) contributor<br>
 Cesar Kohl, [OWASP ASVS](https://github.com/owasp/asvs) and [OWASP Cheat Sheets Series](https://cheatsheetseries.owasp.org/) contributor<br>
+Simon Whittaker, OWASP Lifetime Member<br>
 
 <!--
 Please:
