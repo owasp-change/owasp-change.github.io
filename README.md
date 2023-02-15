@@ -93,6 +93,7 @@ Cesar Kohl, [OWASP ASVS](https://github.com/owasp/asvs) and [OWASP Cheat Sheets 
 Simon Whittaker, OWASP Lifetime Member<br>
 Frank Catucci, CTO and Head of Security Research at Invicti, OWASP Member and former OWASP Chapter Leader<br>
 Ingo Struck, Former OWASP Leader, creator of the name [WebGoat](https://github.com/WebGoat/WebGoat), OWASP Lifetime Member<br>
+Francesco Maria Ferazza, Director of IT, security lecturer and researcher<br>
 
 <!--
 Please:
