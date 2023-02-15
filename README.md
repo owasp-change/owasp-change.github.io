@@ -88,7 +88,7 @@ Dave Ferguson, Project contributor and former chapter leader<br>
 Josh Larsen, OWASP Lifetime Member<br>
 Sergey Pronin, Principal Security Architect, OWASP Lifetime Member<br>
 James, BugBounter, Pentester and OWASP passionate<br>
-Kevin W. Wall, [OWASP ESAPI](https://owasp.org/www-project-enterprise-security-api/) project co-lead, OWASP Lifetime Member, and [OWASP ZAP](https://www.zaproxy.org/) and [OWASP Cheat Sheets Series](https://cheatsheetseries.owasp.org/) contributor.
+Kevin W. Wall, [OWASP ESAPI](https://owasp.org/www-project-enterprise-security-api/) project co-lead, OWASP Lifetime Member, and [OWASP ZAP](https://www.zaproxy.org/) and [OWASP Cheat Sheets Series](https://cheatsheetseries.owasp.org/) contributor<br>
 
 <!--
 Please:
