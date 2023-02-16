@@ -96,6 +96,7 @@ Frank Catucci, CTO and Head of Security Research at Invicti, OWASP Member and fo
 Ingo Struck, Former OWASP Leader, creator of the name [WebGoat](https://github.com/WebGoat/WebGoat), OWASP Lifetime Member<br>
 Francesco Maria Ferazza, Director of IT, security lecturer and researcher<br>
 Antonio Montillo, OWASP enthusiast<br>
+Daniel Neagaru, [OWASP Raider](https://owasp.org/www-project-raider/) project leader<br>
 
 <!--
 Please:
