@@ -99,6 +99,7 @@ Antonio Montillo, OWASP enthusiast<br>
 Daniel Neagaru, [OWASP Raider](https://owasp.org/www-project-raider/) project leader<br>
 Rejah Rehim, [OWASP Kerala](https://owasp.org/www-chapter-kerala/) Chapter leader<br>
 Grant Ongers, OWASP Lifetime Member, [OWASP Cornucopia](https://owasp.org/www-project-cornucopia/) and [OWASP Application Security Curriculum](https://owasp.org/www-project-application-security-curriculum/) project co-lead<br>
+Tom Brennan, OWASP Lifetime Member, Former Board Member (10) Years (https://owasp.org/www-board/board_history/), Former NYC Chapter Leader (15) Years (https://owasp.org/www-chapter-new-york-city/), and project contributor to many efforts including OWASP RFP Criteria (https://owasp.org/www-pdf-archive/OWASP_RFP_Best_Pract.pdf), OWASP Virtual Village (https://github.com/OWASP/VirtualVillage) etc. <br>
 
 <!--
 Please:
