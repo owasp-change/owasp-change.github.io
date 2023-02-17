@@ -98,6 +98,7 @@ Francesco Maria Ferazza, Director of IT, security lecturer and researcher<br>
 Antonio Montillo, OWASP enthusiast<br>
 Daniel Neagaru, [OWASP Raider](https://owasp.org/www-project-raider/) project leader<br>
 Rejah Rehim, [OWASP Kerala](https://owasp.org/www-chapter-kerala/) Chapter leader<br>
+Grant Ongers, OWASP Lifetime Member, [OWASP Cornucopia](https://owasp.org/www-project-cornucopia/) and [OWASP Application Security Curriculum](https://owasp.org/www-project-application-security-curriculum/) project co-lead<br>
 
 <!--
 Please:
