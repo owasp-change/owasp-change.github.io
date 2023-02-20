@@ -101,6 +101,7 @@ Rejah Rehim, [OWASP Kerala](https://owasp.org/www-chapter-kerala/) Chapter leade
 Grant Ongers, OWASP Lifetime Member, [OWASP Cornucopia](https://owasp.org/www-project-cornucopia/) and [OWASP Application Security Curriculum](https://owasp.org/www-project-application-security-curriculum/) project co-lead<br>
 Patrick Reijnders, CISO, OWASP enthusiast; started using the Top Ten as a developer in 2004, now using it as a guideline for pentesting.<br>
 Jordan Pike, OWASP Member<br>
+Magno Logan, OWASP Member since 2011, former [OWASP Paraiba Chapter Leader](https://owasp.org/chapters/status/#inactive) 2011-2016, [OWASP Paraiba Day 2012](https://owasp.org/www-pdf-archive/Plano_de_Patroc%C3%ADnio_-_OWASP_Para%C3%ADba_Day.pdf) Organizer, OWASP Portuguese Language Project contributor and [OWASP Top 10 Java EE](https://owasp.org/www-pdf-archive/Magno_Logan_AppSec_Latam_2011_-_OWASP_Top_10_+_JavaEE.pdf) translator<br> 
 
 <!--
 Please:
