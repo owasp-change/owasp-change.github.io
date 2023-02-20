@@ -101,6 +101,7 @@ Rejah Rehim, [OWASP Kerala](https://owasp.org/www-chapter-kerala/) Chapter leade
 Grant Ongers, OWASP Lifetime Member, [OWASP Cornucopia](https://owasp.org/www-project-cornucopia/) and [OWASP Application Security Curriculum](https://owasp.org/www-project-application-security-curriculum/) project co-lead<br>
 Patrick Reijnders, CISO, OWASP enthusiast; started using the Top Ten as a developer in 2004, now using it as a guideline for pentesting.<br>
 Jordan Pike, OWASP Member<br>
+Riotaro Okada, OWASP Lifetime member, OWASP Projects contributer, an OWASP Japan chapter lead<br>
 
 <!--
 Please:
