@@ -104,6 +104,7 @@ Jordan Pike, OWASP Member<br>
 Riotaro Okada, OWASP Lifetime member, OWASP Projects contributer, an OWASP Japan chapter lead<br>
 Magno Logan, OWASP Member since 2011, former [OWASP Paraiba Chapter Leader](https://owasp.org/chapters/status/#inactive) 2011-2016, [OWASP Paraiba Day 2012](https://owasp.org/www-pdf-archive/Plano_de_Patroc%C3%ADnio_-_OWASP_Para%C3%ADba_Day.pdf) Organizer, OWASP Portuguese Language Project contributor and [OWASP Top 10 Java EE](https://owasp.org/www-pdf-archive/Magno_Logan_AppSec_Latam_2011_-_OWASP_Top_10_+_JavaEE.pdf) translator<br> 
 Steven van der Baan, OWASP Member and OWASP Cambridge co-lead<br>
+David Hunt, OWASP Member and OWASP Columbus co-lead<br>
 
 <!--
 Please:
