@@ -106,6 +106,7 @@ Magno Logan, OWASP Member since 2011, former [OWASP Paraiba Chapter Leader](http
 Steven van der Baan, OWASP Member and OWASP Cambridge co-lead<br>
 David Hunt, OWASP Member and OWASP Columbus co-lead<br>
 Mauricio Harley, OWASP Member, former OWASP Fortaleza chapter founder and leader, OWASP MSTG/MASVS contributor<br>
+Wael Ghandour, OWASP Member<br>
 
 <!--
 Please:
