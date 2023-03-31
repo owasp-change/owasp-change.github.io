@@ -107,6 +107,7 @@ Steven van der Baan, OWASP Member and OWASP Cambridge co-lead<br>
 David Hunt, OWASP Member and OWASP Columbus co-lead<br>
 Mauricio Harley, OWASP Member, former OWASP Fortaleza chapter founder and leader, OWASP MSTG/MASVS contributor<br>
 Wael Ghandour, OWASP Member<br>
+Yevgeniy Goncharov, Open Source Security Tools Developer<br>
 
 <!--
 Please:
