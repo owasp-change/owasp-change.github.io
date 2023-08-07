@@ -123,4 +123,4 @@ Published on 2023/02/13
 
 ---
 
-Submit a PR to [README.md](https://github.com/owasp-change/owasp-change.github.io/blob/main/README.md) to add your name.
+This "Open Letter to the OWASP Board" is no longer accepting any changes.
